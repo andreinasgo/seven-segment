@@ -1,0 +1,20 @@
+.container {
+  left: -8px;
+  position: relative;
+}
+
+.colon {
+  background-color: #aa0000;
+  height: 10px;
+  width: 10px;
+}
+
+.top {
+  position: absolute;
+  top: -20px;
+}
+
+.bottom {
+  position: absolute;
+  top: 12px;
+}

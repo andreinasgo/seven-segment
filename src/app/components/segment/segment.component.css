@@ -1,0 +1,57 @@
+.display {
+  height: 100px;
+  left: 30px;
+  position: relative;
+  top: 8px;
+  width: 70px;
+}
+
+.segment {
+  background-color: #292929;
+  height: 40px;
+  width: 10px;
+}
+
+.active {
+  background-color: #aa0000 !important;
+}
+
+#a {
+  position: absolute;
+  top: -20px;
+  transform: rotate(90deg);
+}
+
+#b {
+  left: 28px;
+  position: absolute;
+}
+
+#c {
+  left: 28px;
+  position: absolute;
+  top: 44px;
+}
+
+#d {
+  position: absolute;
+  top: 64px;
+  transform: rotate(90deg);
+}
+
+#e {
+  left: -28px;
+  position: absolute;
+  top: 44px;
+}
+
+#f {
+  position: absolute;
+  left: -28px;
+}
+
+#g {
+  position: absolute;
+  top: 24px;
+  transform: rotate(90deg);
+}
